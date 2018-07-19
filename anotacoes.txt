@@ -4,7 +4,7 @@ tag nav -> navegação
 tab main -> conteúdo principal
 alt na tag img -> permite identificar o que tem na imagem
 
-tag aside -> conteúdo lateral 
+tag aside -> conteúdo lateral (complementa o conteúdo principal)
 
 div -> divisor
 
@@ -37,4 +37,10 @@ line-height -> espaçamento da altura da linha
 para zerar o usa-se o estilo reset.css (numa hierarquia passa a ser o css base) (reset do Eric Meyer)
 obs: seletores mais específicos não são sobrepostos 
     no caso do "main h1" o h1 não será sobreposto por outra definicao h1 que vier num link posterior 
+
+
+display -> como mostrar os elementos 
+   inline: horizontal
+   block: pilha
+   inline-block: horizontal (mas respeita a altura determinada para o elemento -> resolvendo problema principalmente nos links)
 
