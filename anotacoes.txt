@@ -58,4 +58,6 @@ fluxo do código: o navegador mostra o html no "fluxo" da ordem que foi escrito
 
     http://dabblet.com -> testar posicionamento 
 
-position: relative; -> considera posição relativa à posição original do elemento 
+position: relative; -> considera posição relativa à posição original do elemento
+position: absolute; -> posição em relação à tela 
+position: fixed; -> fixo em relação a tela
