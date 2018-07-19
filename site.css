@@ -1,0 +1,14 @@
+h1 {
+    background-color: #851944;
+    color: #FFF;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-family: "crimson text", serif;
+}
+
+h1, h2 {
+    font-family: "open sans", sans-serif;
+}
