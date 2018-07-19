@@ -20,3 +20,15 @@ main h1 -> aplica css somente no h1 que estiver dentro do main
 
 &copy; -> símbolo copy right
 
+
+padding = preencimento
+
+espaçamento: margin (espaçamento externo) border (largura da borda) padding (espaçamento interno) 
+
+
+->> box model -> quando se seta a largura é setado no conteúdo (default: content-box)
+
+regra -> box-size: content-box e border-box
+usar o border-box para considerar as bordas no cálulo da largura (width)
+
+line-height -> espaçamento da altura da linha
