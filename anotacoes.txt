@@ -32,3 +32,9 @@ regra -> box-size: content-box e border-box
 usar o border-box para considerar as bordas no cálulo da largura (width)
 
 line-height -> espaçamento da altura da linha
+
+->> estilo padrão do navegador 
+para zerar o usa-se o estilo reset.css (numa hierarquia passa a ser o css base) (reset do Eric Meyer)
+obs: seletores mais específicos não são sobrepostos 
+    no caso do "main h1" o h1 não será sobreposto por outra definicao h1 que vier num link posterior 
+
