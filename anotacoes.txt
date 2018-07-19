@@ -1,0 +1,18 @@
+web semantica
+
+tag nav -> navegação
+tab main -> conteúdo principal
+alt na tag img -> permite identificar o que tem na imagem
+div -> divisor
+
+tag blockquote -> citar outra pessoa
+tag cite -> ator da citação
+
+footer -> rodape
+
+
+css 
+
+main h1 -> aplica css somente no h1 que estiver dentro do main
+
+&copy; -> símbolo copy right
