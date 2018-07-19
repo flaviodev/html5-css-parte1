@@ -44,3 +44,18 @@ display -> como mostrar os elementos
    block: pilha
    inline-block: horizontal (mas respeita a altura determinada para o elemento -> resolvendo problema principalmente nos links)
 
+Acessiblidade -> Chrome Vox -> leitor de tela
+
+image-replacement = text-indent: -999999px; ou font-size:0
+
+
+fluxo do código: o navegador mostra o html no "fluxo" da ordem que foi escrito
+    para sair do fluxo usar o FLOAT para o conteúdo flutuar em relação ao fluxo
+
+
+    float: right or left
+    clear: right or left (both) --> limpa o float
+
+    http://dabblet.com -> testar posicionamento 
+
+position: relative; -> considera posição relativa à posição original do elemento 
