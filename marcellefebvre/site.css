@@ -1,0 +1,77 @@
+.topo {
+	font-size: 34px;
+	font-family: 'Cormorant Infant', serif;
+	font-weight: bold;
+	background-color: gray;
+	color: white;
+	height: 70px;
+	vertical-align: middle;
+	padding: 17px;
+	box-sizing: border-box;
+	text-transform: uppercase
+}
+
+.topico {
+	font-size: 22px;
+	padding-left: 40px;
+	padding-right: 20px;
+	text-align: justify;
+	font-family: 'Cormorant Infant', serif;
+	line-height: 1.3;
+}
+
+.titulo-topico {
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	padding: 20px;
+	color: gray;
+}
+
+main {
+	float: left;
+	width: 85%;
+	padding-bottom: 80px;
+}
+
+
+.imagem-ml, .menu {
+	float: right;
+	box-sizing: border-box;
+}
+
+.imagem-ml {
+	width: 15%;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+.imagem-fsspx {
+	width: 15%;
+	position: fixed;
+	top: 380.4px;
+	right: 0;
+}
+
+.menu {
+	width: 15%;
+	position: fixed;
+	top: 140.4px;
+	right: 0;
+	padding: 10px;
+	background-color: black;
+	color: gray;
+}
+
+.menu li {
+	padding: 10px;
+	font-family: 'Cormorant Infant', serif;
+	font-weight: bold;
+	text-transform: none;
+}
+
+.menu a {
+	color: gray;
+    text-decoration: none;
+}
