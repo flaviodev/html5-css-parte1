@@ -1,14 +1,58 @@
+body {
+	background-color: ##ffffee;
+}
+
 .topo {
 	font-size: 34px;
 	font-family: 'Cormorant Infant', serif;
 	font-weight: bold;
-	background-color: gray;
+	background-color: #6b190d;
 	color: white;
 	height: 70px;
 	vertical-align: middle;
 	padding: 17px;
 	box-sizing: border-box;
-	text-transform: uppercase
+	text-transform: uppercase;
+	float: left;
+	width: 100%;
+}
+
+.imagem-ml {
+	box-sizing: border-box;
+	position: absolute;
+	border: 5px solid #8a6a2d;
+	top: -5px;
+	right: -5px;
+	min-height: 182px;
+	max-height: 182px;
+}
+
+.menu {
+	padding: 10px;
+	background-color: black;
+	color: gray;
+	box-sizing: border-box;
+	position: absolute;
+	top: 177px;
+	right: 0px;
+}
+
+.menu li {
+	padding: 10px;
+	font-family: 'Cormorant Infant', serif;
+	font-weight: bold;
+	text-transform: none;
+}
+
+.menu a {
+	color: #8a6a2d;
+    text-decoration: none;
+}
+
+.conteudo {
+	padding-top: 50px;
+	padding-bottom:50px;
+	clear: both;
 }
 
 .topico {
@@ -25,53 +69,23 @@
 	font-weight: bold;
 	text-align: left;
 	padding: 20px;
-	color: gray;
+	color: #8a6a2d;
 }
 
-main {
-	float: left;
-	width: 85%;
-	padding-bottom: 80px;
+.recuo-topico {
+	padding-right: 220px;
 }
 
-
-.imagem-ml, .menu {
-	float: right;
-	box-sizing: border-box;
-}
-
-.imagem-ml {
-	width: 15%;
-	position: fixed;
-	top: 0;
-	right: 0;
+.fsspx {
+	width: 80%;
+	float:left;
 }
 
 .imagem-fsspx {
-	width: 15%;
-	position: fixed;
-	top: 380.4px;
-	right: 0;
+	width: 20%;
+	float: right;
 }
 
-.menu {
-	width: 15%;
-	position: fixed;
-	top: 140.4px;
-	right: 0;
-	padding: 10px;
-	background-color: black;
-	color: gray;
-}
-
-.menu li {
-	padding: 10px;
-	font-family: 'Cormorant Infant', serif;
-	font-weight: bold;
-	text-transform: none;
-}
-
-.menu a {
-	color: gray;
-    text-decoration: none;
+.sagracoes {
+	clear: both;
 }
