@@ -17,3 +17,29 @@ position absolute -> é relativo ao html ou ao primeiro pai que possuia um selet
 caniuse -> testar prefixos de funcionalidades betas do css
 
 cssdeck -> bons exemplos de css
+
+
+combinações de seletores
+˜ depois 
+
+li ˜ li
+
++ logo depois
+
+img + p 
+
+Tipos de seletores
+
+tag
+#id
+.classe
+
+ancestral descendente (espaco: div p { })
+
+irmão ˜ irmão
+
+irmão + irmão seguinte
+
+pai > filho 
+
+
