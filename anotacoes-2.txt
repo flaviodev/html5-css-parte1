@@ -1,0 +1,19 @@
+Medidas 
+
+px - pixel é uma media fixa, muito utilizada mas tem problemas com a mudança de fontes do navegador
+
+% - também muito utilizado, porém é importante considerar a referência pode ser a largura do elemento, ou a fonte do elemento pai
+
+rem - medida relativa ao tamanho da fonte do navegador (ex: 1.25 rem - equivale 125% do tamanho da fonte do navegador)
+
+em - funciona tal como o rem mas toma como referência a fonte do elemento
+
+ch - medida relativa a largura do caracter 0 da fonte
+
+* uma boa prática é definir o font-size no seletor html (ex: 120%) e utilizar medidas nos outros seletores, pois toda vez que alterar o font-size do html altera proporcionalmente para o resto da página
+
+position absolute -> é relativo ao html ou ao primeiro pai que possuia um seletor position;
+
+caniuse -> testar prefixos de funcionalidades betas do css
+
+cssdeck -> bons exemplos de css
