@@ -43,3 +43,13 @@ irmão + irmão seguinte
 pai > filho 
 
 
+Agrupadores de formularios0
+label for -> id input
+
+<fieldset>
+<legend> 
+
+button
+
+required e pattern
+pseudoclasse :invalid
