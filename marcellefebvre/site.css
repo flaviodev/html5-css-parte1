@@ -77,14 +77,6 @@ body {
 	line-height: 1.3em;
 }
 
-.topico:first-letter {
-	font-size: 1.75em;
-}
-
-.topico:after {
-	content: '-';
-}
-
 .titulo-topico {
 	font-size: 2em;				
 	font-weight: bold;

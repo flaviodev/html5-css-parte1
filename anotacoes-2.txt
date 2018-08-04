@@ -53,3 +53,14 @@ button
 
 required e pattern
 pseudoclasse :invalid
+
+atenção para o flexbox (layout inteligente)
+
+Dispõe os elementos com base no pai
+
+display: flex
+align-items
+justify-content
+flex-direction
+flex: 1
+order: 1
