@@ -40,6 +40,15 @@ irmão ˜ irmão
 
 irmão + irmão seguinte
 
-pai > filho 
+pai > filho  
 
+pseudo classes
+
+:nth-child(odd) - linhas ímpares; (table:nth-child(odd))
+:nth-child(even) - linhas pares;
+:nth-child(3) - terceira linha;
+:first-child - primeira linha;
+:last-child - última linha.
+:nth-of-type - contando por tipo (blockquote:nth-of-type(even))
+:hover
 
