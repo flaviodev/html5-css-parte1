@@ -52,3 +52,24 @@ pseudo classes
 :nth-of-type - contando por tipo (blockquote:nth-of-type(even))
 :hover
 
+Agrupadores de formularios0
+label for -> id input
+
+<fieldset>
+<legend> 
+
+button
+
+required e pattern
+pseudoclasse :invalid
+
+atenção para o flexbox (layout inteligente)
+
+Dispõe os elementos com base no pai
+
+display: flex
+align-items
+justify-content
+flex-direction
+flex: 1
+order: 1
